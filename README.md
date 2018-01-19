@@ -1,5 +1,7 @@
 # Epic-Space-Battleship
 The follwing project is done as a part of ECE 241 course offered by the University of Toronto. It is done in a team of two by Polina Govorkova and Nekhil Nagia (https://github.com/nicknagi), where the work was distributed and performed equally by both teammates.
+
+Modules PS2_Controller, Altera_UP_PS2_Data_In, Altera_UP_PS2_Command_Out, vga_adapter, vga_pill, vga_controller and vga_address_translator were provided by the instructors of the course and are not discussed in the following description.
 ## Introduction
 #### Description of the game
 The project is a custom interpretation of the game “Battleship”. It is a guessing game between two players, where each player’s objective is to find the locations of the opponent’s ships. The ships are placed on 10x10 boards, one for each player. Players alternate turns to “shoot” at each other’s boards, until the first fleet is drowned.
