@@ -1,5 +1,5 @@
 # Epic-Space-Battleship
-The follwing project is done as a part of ECE 241 course offered by the University of Toronto. It is done in a team of two by Polina Govorkova and Nekhil Nagia (@github/nicknagi), where the work was distributed and performed equally by both teammates.
+The follwing project is done as a part of ECE 241 course offered by the University of Toronto. It is done in a team of two by Polina Govorkova and Nekhil Nagia (@nicknagi), where the work was distributed and performed equally by both teammates.
 ## Introduction
 #### Description of the game
 The project is a custom interpretation of the game “Battleship”. It is a guessing game between two players, where each player’s objective is to find the locations of the opponent’s ships. The ships are placed on 10x10 boards, one for each player. Players alternate turns to “shoot” at each other’s boards, until the first fleet is drowned.
